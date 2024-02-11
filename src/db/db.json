@@ -1,0 +1,112 @@
+{
+    "User": [
+      {
+        "name": "Mostafa",
+        "password": "1234",
+        "email": "mostafa@gmail.com",
+        "lastname": "ranjbar",
+        "image": "",
+        "id": "mostafa@gmail.com",
+        "gender": "",
+        "number": "",
+        "city": "",
+        "age": ""
+      },
+      {
+        "name": "Morteza",
+        "password": "1111",
+        "email": "morteza@gmail.com",
+        "lastname": "",
+        "image": "",
+        "id": "morteza@gmail.com",
+        "gender": "",
+        "number": "",
+        "city": "",
+        "age": ""
+      },
+      {
+        "id": "zahra@gmail.com",
+        "name": "Zahra",
+        "password": "4321",
+        "email": "zahra@gmail.com",
+        "lastname": "",
+        "gender": "",
+        "number": "",
+        "city": "",
+        "age": "",
+        "image": ""
+      }
+    ],
+    "tasks": [
+      {
+        "id": "3",
+        "title": "game",
+        "description": "pes fifa",
+        "deadline": "2024-02-22T11:13",
+        "image": "",
+        "status": "completed",
+        "dateAdded": "2/7/2024, 11:08:58 AM",
+        "userId": "mostafa@gmail.com"
+      },
+      {
+        "id": "4",
+        "title": "read books",
+        "description": "harry potter\nlord of the ring",
+        "deadline": "2025-07-13T18:52",
+        "image": "",
+        "status": "completed",
+        "dateAdded": "2/7/2024, 6:50:23 PM",
+        "userId": "zahra@gmail.com"
+      },
+      {
+        "id": "8c9ad0cb-9945-4770-9477-fa067481aed6",
+        "title": "homework",
+        "description": "math chemistry",
+        "deadline": "2024-03-26T16:21",
+        "image": "",
+        "status": "active",
+        "dateAdded": "2/9/2024, 11:19:37 AM",
+        "userId": "zahra@gmail.com"
+      },
+      {
+        "id": "cbc30953-b687-4129-ba08-492d57ff174d",
+        "title": "test",
+        "description": "",
+        "deadline": "",
+        "image": "",
+        "status": "active",
+        "dateAdded": "2/9/2024, 11:19:54 AM",
+        "userId": "zahra@gmail.com"
+      },
+      {
+        "id": "b5be90c7-2750-45f5-8f65-40fbbefe6777",
+        "title": "sport",
+        "description": "football and voleyball",
+        "deadline": "2024-02-29T20:37",
+        "image": "",
+        "status": "active",
+        "dateAdded": "2/9/2024, 2:37:18 PM",
+        "userId": "mostafa@gmail.com"
+      },
+      {
+        "id": "56e07a30-84a5-4a2d-83a4-9cd9028e8862",
+        "title": "wash car",
+        "description": "",
+        "deadline": "",
+        "image": "",
+        "status": "active",
+        "dateAdded": "2/9/2024, 2:55:57 PM",
+        "userId": "mostafa@gmail.com"
+      },
+      {
+        "id": "8c3a3734-96a6-439d-ab71-b5b74dc67c27",
+        "title": "make a sandwich",
+        "description": "",
+        "deadline": "",
+        "image": "",
+        "status": "active",
+        "dateAdded": "2/9/2024, 2:56:25 PM",
+        "userId": "mostafa@gmail.com"
+      }
+    ]
+  }
